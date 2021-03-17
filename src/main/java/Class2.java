@@ -28,7 +28,7 @@ public class Class2 {
 
     /**
      * Exempel på hur en 'Wardrobe' skulle kunna se ut.
-     * För att kunna använda den här listan behöver ni definiera en Arraylist utanför den här metoden -
+     * För att kunna använda den här listan behöver ni definiera en lista utanför den här metoden -
      * på klassnivå
      **/
     private List<Garment> createWardrobe() {
